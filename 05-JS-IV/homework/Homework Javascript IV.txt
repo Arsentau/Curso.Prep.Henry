@@ -1,0 +1,11 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos: son contenedores de datos, y pueden almacenar distintos tipos de datos tales como números, string, booleanos, array y funciones, a las cuales llamaremos método al estar definidas dentro de un objeto.
+
+	* Propiedades: cada objeto como en la vida real tiene distintas propiedades, por ej. una usuario, tiene como propiedades, su nombre, apellido, edad, telefono etc. al igual que las propiedades físicas de un objeto real como una casa, que tiene un color, una supuerficie cubierta, una cierta cantidad de ventanas, etc.
+
+	* Métodos: son funciones que están guardadas en un objeto. a las mismas se les puede pasar parametros y las mismas devuelven un resultado especifico, esto le da la capacidad al objeto de ser escalabre y no estar escribiendo código de manera innecesaria.
+    
+	* Bucle `for…in`: a diferencia del bucle for que se repite a partir de una variable de índice numérico, pero en el caso de los objetos que presentan la estructura KEY VALUE, es posible realizar el bucle recorriendo cada clave del objeto y finalizando cuando ya se hayan iterado todas las claves.
+
+	* Notación de puntos vs notación de corchetes: la notación por puntos podemos acceder a la clave con la que queremos trabajar separando el nombre de objeto con un punto y seguido el nombre de la clave que necesitamos, en cambio en la notación por corchetes tenemos que llamar al elemento como si fuera una matriz. Con corchetes debemos usar una cadena o número, o una variable que apunte a una cadena o número.
