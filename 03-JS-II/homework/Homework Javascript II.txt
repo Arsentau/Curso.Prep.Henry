@@ -1,0 +1,9 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for` es un bucle, lo que implica que ejecuta un conjunto de operaciones tantas veces como los parametros de inicio y finalización indiquen o hasta que se alcanza una condición.
+
+* `&&` es un operador lógico que compara dos condiciones dando verdadero si y sólo si ambas condiciones son verdaderas, de lo contrario devuelve falso.
+
+* `||` es otro operador lógico que compara dos condiciones dando verdadero si por lo menos una de las dos es verdadera, de lo contrario devuelve falso.
+
+* `!` por último este operador lógico niega cualquier condicion por lo que si a != b tenemos que a es distinto de b. En el caso que la operación devuelva true al negarlo se convierte en false y viceversa.
